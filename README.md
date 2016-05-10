@@ -3,9 +3,9 @@ This repository contains the solution to the Course Project of the Practical Mac
 
 The following files are hosted in this repository:
 
-* <b>report.html</b>: html file of the project report.
-* <b>report.Rmd</b>: R-markdown file of the project report.
-* <b>report.md</b>: html file of the project report.
+* <b>index.html</b>: html file of the project report.
+* <b>index.Rmd</b>: R-markdown file of the project report.
+* <b>index.md</b>: html file of the project report.
 
 The html file can be accessed here:
 
